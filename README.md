@@ -2,7 +2,6 @@
 ECOMMERCE Application 
 App screen
 ![1](https://user-images.githubusercontent.com/75865028/123553841-5c9ef980-d775-11eb-88de-6053627e1a18.png)
-
 ![2](https://user-images.githubusercontent.com/75865028/123553861-6a547f00-d775-11eb-84d4-1bb686481a5c.png)
 ![3](https://user-images.githubusercontent.com/75865028/123553869-717b8d00-d775-11eb-9699-90dca9a71551.png)
 ![4](https://user-images.githubusercontent.com/75865028/123553877-76d8d780-d775-11eb-9288-c9c51e71b63d.png)
