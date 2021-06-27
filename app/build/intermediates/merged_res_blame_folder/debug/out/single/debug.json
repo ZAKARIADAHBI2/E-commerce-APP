@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_g_plus_button.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\green_g_plus_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_apriori.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\menu\\menu_apriori.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_settings.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_middle.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\from_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_product_category.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_product_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_show_similar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\view_show_similar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\app_name_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_nav_header_bg.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-v21\\nav_header_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_product_detail.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checkout_button.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\checkout_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_header_1.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-nodpi\\header_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_header2.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-nodpi\\header2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_selected.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_my_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_my_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ecart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\activity_ecart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slide_down.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\slide_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_app_name_animation.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\app_name_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_default_out_anim.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\default_out_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_bottom_anchor.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\view_bottom_anchor.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_about.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_circle_placeholder.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\img_circle_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_items_found.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\no_items_found.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-hdpi\\header.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\logo_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_left_out.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\base_slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounder_rectangle_visa_card.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\rounder_rectangle_visa_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_up_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_changelog.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\xml\\changelog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_w_shadow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\toolbar_w_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_feed_action.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\btn_feed_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_logo_animation_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\logo_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_shrink_color.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\shrink_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ico_mic.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category_list.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\item_category_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ripple.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-v21\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_simplecircle.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\simplecircle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_shopping_cart.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\ic_add_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_donot_move.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\donot_move.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_grow_color.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\grow_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_spinner.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\toolbar_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_remove_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\round_text_remove_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_cart_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\round_text_cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_search_product.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_search_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product_list.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\item_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\pro_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_transparent.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\toolbar_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cart.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-hdpi\\cart.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_connection_dialog.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\connection_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ripple_accent.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-v21\\ripple_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_category_details.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_category_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_middle.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\to_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag_product_list_fragment.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\frag_product_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_unselected.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\indicator_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_above_shadow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\above_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_base_slide_right_in.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\base_slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_pro_animation_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\pro_animation_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_simple_grow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\simple_grow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_apriori_result.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\layout\\activity_apriori_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_add_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\round_text_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\anim\\slide_up_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_below_shadow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\ECommerce-App-Android-master\\app\\src\\main\\res\\drawable\\below_shadow.xml"
+    }
+]
